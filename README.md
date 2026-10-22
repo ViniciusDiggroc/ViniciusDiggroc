@@ -1,77 +1,61 @@
 
+
+<img src="./imagem.png" alt="Banner de programação" width="100%" />
+
 <div align="center">
 
-# `> Olá, eu sou [SEU NOME]`
+# Hi, I'm Vinicius Diggroc
 
 ### `Systems Development Student 💻`
 
-Estudante de Desenvolvimento de Sistemas na ETEC Martinho Di Ciero.
-
-Explorando tecnologias, desenvolvendo projetos e evoluindo através do código.
+Exploring technologies, developing project and evoluing by the codes.
 
 </div>
 
 ---
 
-## `01 // ABOUT ME`
+## `👨‍💻 About Me`
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "[SEU NOME]"
-        self.school = "ETEC Martinho Di Ciero"
-        self.course = "Desenvolvimento de Sistemas"
-        self.grade = "2º ano"
-        self.status = "Em formação"
-        self.focus = [
-            # Suas áreas de interesse
-        ]
-        self.goals = [
-            # Seus objetivos futuros
-        ]
+- 🎓 Systems Development Student from ETEC Martinho Di Ciero..
+- 💡 interesting in technologies, games and programming.
+- 🌱 Currently, I'm learning and developing my skills from programming.
+- 🚀 My objective is learn new technologies and create my own projects.
 
-    def introduce(self):
-        return "Sempre aprendendo e construindo."
+## `💻 Languages I'm Learning`
+- JavaScript
+- HTML & CSS
+- C#
+- C++
+- Python
+- MySQL 
 
-
-me = Developer()
-```
-
-## `02 // TECH STACK`
-
-### Linguagens
-<!-- Preencha com as linguagens que conhece ou está estudando -->
-
+## `🛠️ Tools & Technologies`
+- Node JS
+- .NET
+- Express
+- Cloude
+- GPT Chat
+- Gemini
+- Copilot
+- Vs Code
+- Git & GitHub 
 - 
 
-### Frameworks e bibliotecas
-- 
+## `🚀 My Projects`
 
-### Banco de dados
-- 
+<!-- Adicione seus projetos aqui quando quiser -->
+#
 
-### Ferramentas
-- 
+## `🎯 My Goals`
 
-## `03 // MY PROJECTS`
+- Learn new programming language.
+- improve my skills from codes.
+- Create my own projects in the future and put my ideas into practice.
 
-<!-- Adicione os projetos que você já desenvolveu -->
+---
 
-- **Projeto:** 
-- **Descrição:** 
-- **Tecnologias:** 
-- **Repositório:** 
+<div align="center">
 
-## `04 // FUTURE BUILDS`
+`Always learning, always coding. `
 
-<!-- Ideias que você pretende transformar em projetos -->
-
-- [ ] 
-- [ ] 
-- [ ] 
-
-## `05 // MY GOALS`
-
-- [ ] 
-- [ ] 
-- [ ] 
+</div>
