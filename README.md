@@ -1,13 +1,13 @@
 
-<img src="./imagem.png" alt="Banner de programação" width="100%" />
-
 <div align="center">
 
 # `> Olá, eu sou [SEU NOME]`
 
-### `Desenvolvedor em formação | Tech enthusiast`
+### `Systems Development Student 💻`
 
-`Transformando ideias em código.`
+Estudante de Desenvolvimento de Sistemas na ETEC Martinho Di Ciero.
+
+Explorando tecnologias, desenvolvendo projetos e evoluindo através do código.
 
 </div>
 
@@ -15,106 +15,63 @@
 
 ## `01 // ABOUT ME`
 
-> Um pouco sobre quem sou e o que estou construindo.
+```python
+class Developer:
+    def __init__(self):
+        self.name = "[SEU NOME]"
+        self.school = "ETEC Martinho Di Ciero"
+        self.course = "Desenvolvimento de Sistemas"
+        self.grade = "2º ano"
+        self.status = "Em formação"
+        self.focus = [
+            # Suas áreas de interesse
+        ]
+        self.goals = [
+            # Seus objetivos futuros
+        ]
 
-- **Nome:** 
-- **Localização:** 
-- **Formação:** 
-- **Área de interesse:** 
-- **Sobre mim:** 
-- **Meu objetivo na programação:** 
+    def introduce(self):
+        return "Sempre aprendendo e construindo."
 
-## `02 // MY CHARACTERISTICS`
 
-- **Pontos fortes:** 
-- **Habilidades pessoais:** 
-- **Como gosto de aprender:** 
-- **O que me motiva:** 
-- **Meus interesses:** 
+me = Developer()
+```
 
-## `03 // TECH STACK`
+## `02 // TECH STACK`
 
-### Linguagens de programação
-<!-- Coloque aqui as linguagens que conhece ou está aprendendo -->
+### Linguagens
+<!-- Preencha com as linguagens que conhece ou está estudando -->
 
 - 
 
 ### Frameworks e bibliotecas
-<!-- Ex.: React, Express, .NET -->
-
 - 
 
-### Ferramentas e tecnologias
-<!-- Ex.: Git, GitHub, VS Code, MySQL -->
-
+### Banco de dados
 - 
 
-## `04 // CURRENTLY LEARNING`
+### Ferramentas
+- 
 
-- [ ] 
-- [ ] 
-- [ ] 
+## `03 // MY PROJECTS`
 
-## `05 // PROJECTS`
+<!-- Adicione os projetos que você já desenvolveu -->
 
-### `PROJECT_01`
-
-- **Nome:** 
+- **Projeto:** 
 - **Descrição:** 
-- **Tecnologias utilizadas:** 
-- **O que aprendi:** 
+- **Tecnologias:** 
 - **Repositório:** 
 
-### `PROJECT_02`
+## `04 // FUTURE BUILDS`
 
-- **Nome:** 
-- **Descrição:** 
-- **Tecnologias utilizadas:** 
-- **O que aprendi:** 
-- **Repositório:** 
-
-### `PROJECT_03`
-
-- **Nome:** 
-- **Descrição:** 
-- **Tecnologias utilizadas:** 
-- **O que aprendi:** 
-- **Repositório:** 
-
-## `06 // FUTURE BUILDS`
-
-| Projeto | Ideia | Status |
-|---|---|---|
-| Projeto 01 |  | Planejamento |
-| Projeto 02 |  | Ideia |
-| Projeto 03 |  | Ideia |
-
-## `07 // GOALS`
+<!-- Ideias que você pretende transformar em projetos -->
 
 - [ ] 
 - [ ] 
 - [ ] 
 
-## `08 // GITHUB STATS`
+## `05 // MY GOALS`
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas" />
-
-</div>
-
-## `09 // CONTACT`
-
-- **E-mail:** 
-- **LinkedIn:** 
-- **Portfólio:** 
-
----
-
-<div align="center">
-
-`> SYSTEM STATUS: ALWAYS LEARNING_`
-
-</div>
+- [ ] 
+- [ ] 
+- [ ] 
