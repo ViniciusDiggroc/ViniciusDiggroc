@@ -1,7 +1,7 @@
 
 <div align="center">
   <img
-    src="./banner.png"
+    src="./imagem.png"
     alt="Banner de programação com código neon"
     width="100%"
   />
