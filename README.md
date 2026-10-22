@@ -1,5 +1,5 @@
 
-<img src="./banner.png" alt="Banner de programação" width="100%" />
+<img src="./imagem.png" alt="Banner de programação" width="100%" />
 
 <div align="center">
 
